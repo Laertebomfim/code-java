@@ -1,6 +1,9 @@
 package codeTest.codeInitial.introduce;
 
-public class Main {
+/**
+ * olá
+ */
+public class HelloWord {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
