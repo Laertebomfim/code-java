@@ -13,10 +13,11 @@ public class typePrimitivos {
         float numberFloat = 45.5f; //tipo futuante que pode receber ate 32 bites
         double numberDouble = 45.5; //tipo futuante que pode receber ate 64 bites
 
-        String palavraOuCaracter = "hello \n bom";
-
         boolean trueOuFalse = true;
 
-        System.out.println(palavraOuCaracter);
+        String allType = "byte:"+numberByte+" short:"+numberShort+ "int;"+number+ "long:"+ numberLong+ "Float:"+ numberFloat+ "Double:"+ numberDouble + "boolean:" + trueOuFalse;
+
+        System.out.println(allType);
+
     }
 }
