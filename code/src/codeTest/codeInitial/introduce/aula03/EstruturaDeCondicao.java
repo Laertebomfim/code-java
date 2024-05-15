@@ -53,6 +53,7 @@ public class EstruturaDeCondicao {
             default:
                 menssgem = "";
         }
+        System.out.println(menssgem);
 
     }
 
