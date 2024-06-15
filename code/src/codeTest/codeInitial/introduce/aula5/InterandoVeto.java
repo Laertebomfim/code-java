@@ -10,7 +10,7 @@ public class InterandoVeto {
             number[i]=number[9]++*10;
         }
 
-        // o valor que ésta em cada espaço do veto
+        // o VALOR que ésta em cada espaço do veto
         for(int num:number) {
             System.out.println(num);
         }
